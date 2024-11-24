@@ -1,5 +1,5 @@
 // Array of names to pick from
-const names = ["Alice", "rubik", " tevx", "aleksey","Bob", "Charlie", "Diana", "Eve", "Frank", "Grace"];
+const names = ["Alice", "rubik", " tevx", "aleksey","Bob", "Charlie", "Diana", "Eve", "Frank", "Grace"," crimson ","anik"
 
 // Function to pick a random name
 function pickRandomName() {
