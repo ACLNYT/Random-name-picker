@@ -8,5 +8,5 @@ function pickRandomName() {
 }
 
 // Running the function and logging the result
-console.log(` This is made by ACLN.`);
+console.log(`Update* This is made by ACLN.`);
 console.log(`The randomly picked name is: ${pickRandomName()}`);
